@@ -1,2 +1,3 @@
 # hello-world
-First repository - hello-world
+
+In Germany some folks don't say "Hi", they say "Moin".
